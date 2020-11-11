@@ -1,4 +1,3 @@
-
 from subprocess import *
 openWhat = input('What app do you want to open ')
 def open():
