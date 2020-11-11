@@ -1,2 +1,2 @@
 # open
-This is a bot that logs you into your zoom meetings.
+This is a example i made to show how the subprocess module uses excutables.
